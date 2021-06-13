@@ -37,12 +37,12 @@ feature:
     # feature item loop
     - name : "Respuesta rápida"
       icon : "fas fa-tachometer-alt"
-      content : "Sabemos que tu empresa no puede esperar. Rapidez sin penalizar la calidad."
+      content : "Sabemos que tu empresa no puede esperar. Rapidez sin afectar a la calidad."
       
     # feature item loop
     - name : "Herramientas especializadas"
       icon : "fas fa-cloud"
-      content : "Conocemos las opciones y elejimos la que mejor encaja en tu proyecto."
+      content : "Conocemos las opciones y elejímos la que mejor encaja en tu proyecto."
       
 
 
@@ -74,7 +74,7 @@ service:
     - title : "Blog"
       images:
       - "images/blog.png"
-      content : "Noticias, eventos, tutoriales y articulos de opinión."
+      content : "Noticias, eventos, tutoriales y artículos de opinión."
       button:
         enable : true
         label : "Leer los artículos"
