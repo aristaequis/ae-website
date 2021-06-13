@@ -63,7 +63,7 @@ service:
     # service item loop
     - title : "Gestión de Proyectos"
       images:
-      - "images/service-1.png"
+      - "images/service-1.webp"
       content : "Una vez identificados los puntos a transformar y las herramientas a implementar, te ayudamos a llevarlo a cabo estableciendo un plan de acción y coordinando todas las piezas de la ejecución para que el resultado sea el ideal."
       button:
         enable : false
