@@ -20,10 +20,10 @@ link = "contact"
 
   
 ############################# social site ########################
-#[[social]]
-#title = "facebook"
-#icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-#link = "#"
+[[social]]
+title = "facebook"
+icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/aristaequisTD"
 
 [[social]]
 title = "twitter"

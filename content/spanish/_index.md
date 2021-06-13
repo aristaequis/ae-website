@@ -96,21 +96,21 @@ badge:
       icon : "fas fa-code"
       content: "Implementamos aplicaciones, monitoreamos operaciones y administramos soluciones empresariales. Usando Google Cloud Console y la interfaz de línea de comandos, facilitamos la realización de tareas comunes basadas en la plataforma, para mantener soluciones implementadas que aprovechen los servicios autogestionados o administrados por Google en Google Cloud."
       link: "https://www.credential.net/4024eb57-cc1c-4f8c-b805-a8fdec7f59da"
-      image: "https://s3.amazonaws.com/accredible-api-badge/1548277101436.png"
+      image: "images/google-associate-cloud-engineer.png"
       
     # badge item loop
     - name : "Professional Cloud Architect"
       icon : "fas fa-heart"
       content: "Apoyamos a las organizaciones para el aprovechamiento de las tecnologías de Google Cloud. Diseñamos, desarrollamos y administramos soluciones sólidas, seguras, escalables, de alta disponibilidad y dinámicas para impulsar los objetivos comerciales de la empresa."
       link: "https://www.credential.net/1983a409-05ab-4781-b8c4-f82612078f74"
-      image: "https://s3.amazonaws.com/accredible-api-badge/1521044380812.png"
+      image: "images/google-professional-cloud-architect.png"
       
     # badge item loop
     - name : "Professional Collaboration Engineer"
       icon : "fas fa-user-clock"
       content : "Transformamos objetivos comerciales en configuraciones, políticas y prácticas de seguridad tangibles en lo que respecta a los usuarios, el contenido y las integraciones. Con un enfoque que parte de la ingeniería y las soluciones, utilizamos herramientas, lenguajes de programación y API para automatizar los flujos de trabajo."
       link: "https://www.credential.net/4024eb57-cc1c-4f8c-b805-a8fdec7f59da"
-      image: "https://s3.amazonaws.com/accredible-api-badge/1556556838130475.png"
+      image: "images/google-professional-collaboration-engineer.png"
 
 ##################### Call to action #####################
 call_to_action:
