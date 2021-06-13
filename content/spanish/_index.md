@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title : "Experiencia y tecnología innovadora que transforma tu empresa."
-  image : "images/banner-art.png"
+  image : "images/banner-art.jpg"
   content : "Creemos que la tecnología es una herramienta no sólo para hacer el trabajo diario más facil, sino para llevarnos más lejos y crear aquello que aún ni hemos imaginado."
   button:
     enable : false
