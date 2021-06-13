@@ -1,0 +1,27 @@
+############################# Spanish ############################
+[es]
+languageName = "Español"
+title = "aristaequis - Transformación Digital"
+contentDir = "content/spanish" # content/spanish
+weight = 1
+########### footer content ##########
+footer_menu_left = "Acerca"
+footer_menu_middle = "Blog"
+footer_menu_right = "Soporte"
+footer_content = "Experiencia y tecnología innovadora que transforma tu empresa."
+# copyright
+copyright = "© aristaequis 2021"
+
+############################# English ############################
+#[en]
+#languageName = "English"
+#title = "aristaequis - Digital Transformation"
+#contentDir = "content/english" # content/english
+#weight = 2
+############ footer content ##########
+#footer_menu_left = "Company"
+#footer_menu_middle = "Product"
+#footer_menu_right = "Support"
+#footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+# copyright
+#copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"

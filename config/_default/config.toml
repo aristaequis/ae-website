@@ -1,0 +1,16 @@
+######################## default configuration ####################
+baseURL = "http://aristaequis.com/"
+title = "aristaequis - Transformación Digital"
+defaultContentLanguage = "es"
+theme = "bigspring"
+# post pagination
+paginate = "50"
+# post excerpt
+summaryLength = "70"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true

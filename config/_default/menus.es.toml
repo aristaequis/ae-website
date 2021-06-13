@@ -1,0 +1,36 @@
+# main menu
+[[main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Blog"
+url = "blog"
+weight = 2
+
+[[main]]
+name = "Quienes Somos"
+url = "acerca"
+weight = 3
+
+# footer menu left
+#[[footer_left]]
+#name = "Inicio"
+#url = "#"
+#weight = 10
+
+#[[footer_left]]
+#name = "Acerca"
+#url = "acerca"
+#weight = 20
+
+# footer menu middle
+#[[footer_middle]]
+#name = "Blog"
+#url = "blog"
+
+# footer menu right
+#[[footer_right]]
+#name = "Política de Privacidad"
+#url = "privacy-policy"
