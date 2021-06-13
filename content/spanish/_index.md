@@ -73,7 +73,7 @@ service:
     # service item loop
     - title : "Blog"
       images:
-      - "images/blog.png"
+      - "images/blog.webp"
       content : "Noticias, eventos, tutoriales y artículos de opinión."
       button:
         enable : true
@@ -84,7 +84,7 @@ service:
 screenshot:
   enable : false
   title : "Blog"
-  image : "images/blog.png"
+  image : "images/blog.webp"
 
 ##################### Badges ##########################
 badge:
@@ -116,7 +116,7 @@ badge:
 call_to_action:
   enable : true
   title : "¿Listo para empezar?"
-  image : "images/contacto.png"
+  image : "images/contacto.webp"
   content : "Te estamos esperando para llevar a tu empresa más lejos!"
   button:
     enable : true
