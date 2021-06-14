@@ -11,6 +11,8 @@ summaryLength = "70"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # google analytics
 googleAnalytics = "" # example : UA-123-45
+# Google Analytics 4
+googleAnalyticsID = "G-9YFMJ98Q45"
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
