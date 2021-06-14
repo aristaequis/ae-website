@@ -3,6 +3,16 @@
 
 <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9YFMJ98Q45"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9YFMJ98Q45');
+</script>
+
 <!-- multilingual SEO optimizations -->
 {{ if .IsTranslated }}
 {{ range .Page.AllTranslations }}
