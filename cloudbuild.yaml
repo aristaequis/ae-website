@@ -5,6 +5,14 @@ steps:
   - '-O'
   - 'firebase'
   - 'https://firebase.tools/bin/linux/latest'
+
+- name: 'gcr.io/cloud-builders/git'
+  entrypoint: 'bash'
+  args:
+  - -c
+  - |
+    git submodule init
+    git submodule update
     
 - name: 'gcr.io/cloud-builders/wget'
   args:
