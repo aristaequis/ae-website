@@ -109,7 +109,7 @@ badge:
     - name : "Professional Collaboration Engineer"
       icon : "fas fa-user-clock"
       content : "Transformamos objetivos comerciales en configuraciones, políticas y prácticas de seguridad tangibles en lo que respecta a los usuarios, el contenido y las integraciones. Con un enfoque que parte de la ingeniería y las soluciones, utilizamos herramientas, lenguajes de programación y API para automatizar los flujos de trabajo."
-      link: "https://www.credential.net/4024eb57-cc1c-4f8c-b805-a8fdec7f59da"
+      link: "https://www.credential.net/d3ba4b9c-ccb6-4025-8d2d-0fd412eda7a5"
       image: "images/google-professional-collaboration-engineer.png"
 
 ##################### Call to action #####################
