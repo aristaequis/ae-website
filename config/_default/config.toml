@@ -3,6 +3,7 @@ baseURL = "http://aristaequis.com/"
 title = "aristaequis - Transformación Digital"
 defaultContentLanguage = "es"
 theme = "bigspring"
+enableRobotsTXT = true
 # post pagination
 paginate = "50"
 # post excerpt
