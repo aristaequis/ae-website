@@ -78,7 +78,7 @@ service:
       button:
         enable : true
         label : "Leer los artículos"
-        link : "es/blog/"
+        link : "blog/"
 
 ################### Screenshot ########################
 screenshot:
