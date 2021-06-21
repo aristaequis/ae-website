@@ -22,6 +22,6 @@ weight = 2
 footer_menu_left = "About"
 footer_menu_middle = "Blog"
 footer_menu_right = "Support"
-#footer_content = "Experience and innovative technology that transforms your company."
+footer_content = "Experience and innovative technology that transforms your company."
 # copyright
 copyright = "© aristaequis 2021"
