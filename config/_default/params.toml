@@ -1,9 +1,9 @@
 #################### default parameters ################################
 logo = "images/logo.png"
 logo_width = "200px"
-# Meta data
+# OpenGraph / Twitter Card metadata
 description = "Experiencia y tecnología innovadora que transforma tu empresa"
-author = "aristaequis"
+author = "alfons_mr"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
@@ -18,6 +18,12 @@ enable = true
 label = "Contactar"
 link = "contact"
 
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
   
 ############################# social site ########################
 [[social]]
