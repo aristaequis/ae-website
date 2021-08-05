@@ -36,6 +36,6 @@ steps:
     
 - name: 'gcr.io/cloud-builders/gsutil'
   args: [ 'cp', '-r',
-            './',
+            './public',
             'gs://aristaequis-ro/test' ]
 
